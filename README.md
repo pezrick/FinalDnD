@@ -21,4 +21,4 @@ Application is designed so that users can enter the frontend service on port 500
 - MYSQL_DB - schema name
 - MYSQL_SK - random string of letters and numbers (genuinely doesn't matter)
 
-Also need a mysql database with a blank schema initialised (flask app will create tables and dummy data)
+Also need a    database with a blank schema initialised (flask app will create tables and dummy data)
